@@ -51,7 +51,7 @@
 ## 其他
 
 ### <a name="B站Up主">B站Up🐖</a>
-
 &nbsp;&nbsp;&nbsp;&nbsp; [Sky_SiliconThink](https://space.bilibili.com/660419149)
 
+### 免费Synopsys镜像
 &nbsp;&nbsp;&nbsp;&nbsp; [Synopsys EDA Tools docker image](https://bbs.eetop.cn/thread-919536-1-1.html)
