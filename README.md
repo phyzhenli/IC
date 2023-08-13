@@ -34,6 +34,7 @@
 
 #### <a name="DJI-2020">2020</a>
 
+[大疆创新2020校招数字IC笔试题解析【芯片开发工程师】【数字IC】【FPGA】](https://mp.weixin.qq.com/s/1wXNrTk1dOjSpLhdRkgQCw)
 
 ### 华为
 
