@@ -13,6 +13,10 @@
     - [2020](#DJI-2020)
   - [华为](#华为)
     - [2021](#华为-2021)
+   
+- [其他](#其他)
+  - [B站Up🐖](#B站Up主)
+  - [免费Synopsys镜像](#免费Synopsys镜像)
 
 
 
@@ -44,4 +48,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; [华为2021秋招】FPGA逻辑笔试解析-2【修改】](https://mp.weixin.qq.com/s?__biz=MzUyNTc4NTk0OA==&mid=2247484915&idx=2&sn=5d5ad2c11dcd7194c644ce391618d8ed&chksm=fa198bc0cd6e02d6732ae15fd863246c7f26d3e7f7ac0cc8036112ee6741f94525e200affe8c&scene=21#wechat_redirect)
 
+## 其他
 
+### <a name="B站Up主">B站Up🐖</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Sky_SiliconThink](https://space.bilibili.com/660419149)
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Synopsys EDA Tools docker image](https://bbs.eetop.cn/thread-919536-1-1.html)
