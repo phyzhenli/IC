@@ -38,7 +38,7 @@
 
 ### 华为
 
-#### <a name="华为-2021">2020</a>
+#### <a name="华为-2021">2021</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp; [华为2021秋招】FPGA逻辑笔试解析【独家】【数字IC】【FPGA逻辑】【2021届秋招】](https://mp.weixin.qq.com/s?__biz=MzUyNTc4NTk0OA==&mid=2247484896&idx=1&sn=e7094dd51b66bb8cc1624c72ceda199b&chksm=fa198bd3cd6e02c505e7374470a6e5f309e53661795883a41b23b5058add050dd67dc9f73676&scene=21#wechat_redirect)
 
