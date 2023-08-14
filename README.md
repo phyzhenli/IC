@@ -56,8 +56,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; [2022乐鑫数字芯片提前批笔试（含答案）](https://zhuanlan.zhihu.com/p/457630680)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [FPGA/IC笔试——乐鑫2022提前批- 一曲挽歌](https://www.cnblogs.com/yiquwange/p/14991462.html)
-
 ## 其他
 
 ### <a name="B站Up主">B站Up🐖</a>
