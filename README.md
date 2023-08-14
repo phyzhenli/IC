@@ -14,6 +14,7 @@
   - [华为](#华为)
     - [2021](#华为-2021)
   - [乐鑫](#乐鑫)
+    - [2021](#乐鑫-2022)
     - [2022](#乐鑫-2022)
    
 - [其他](#其他)
@@ -52,9 +53,17 @@
 
 ### 乐鑫
 
+#### <a name="乐鑫-2021">2021</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp; [乐鑫科技2021数字IC提前批笔试（上） - FPGA探索者 - 腾讯云](https://cloud.tencent.com/developer/article/1801161)
+
 #### <a name="乐鑫-2022">2022</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp; [2022乐鑫数字芯片提前批笔试（含答案）](https://zhuanlan.zhihu.com/p/457630680)
+&nbsp;&nbsp;&nbsp;&nbsp; [乐鑫2022数字IC岗提前批笔试题答案](https://blog.nowcoder.net/n/3c25fbd24be44e91bfb65108f0c8b858?from=nowcoder_improve)
+
+&nbsp;&nbsp;&nbsp;&nbsp; [FPGA/IC笔试——乐鑫2022提前批- 一曲挽歌](https://www.cnblogs.com/yiquwange/p/14991462.html)
+
+&nbsp;&nbsp;&nbsp;&nbsp; [2022乐鑫数字芯片提前批笔试原创](https://blog.csdn.net/weixin_44072819/article/details/123365487)
 
 ## 其他
 
