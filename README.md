@@ -51,8 +51,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp; [华为2021秋招】FPGA逻辑笔试解析-2【修改】](https://mp.weixin.qq.com/s?__biz=MzUyNTc4NTk0OA==&mid=2247484915&idx=2&sn=5d5ad2c11dcd7194c644ce391618d8ed&chksm=fa198bc0cd6e02d6732ae15fd863246c7f26d3e7f7ac0cc8036112ee6741f94525e200affe8c&scene=21#wechat_redirect)
 
 ### 乐鑫
+
 #### <a name="乐鑫-2022">2022</a>
+
 &nbsp;&nbsp;&nbsp;&nbsp; [2022乐鑫数字芯片提前批笔试（含答案）](https://zhuanlan.zhihu.com/p/457630680)
+
+&nbsp;&nbsp;&nbsp;&nbsp; [FPGA/IC笔试——乐鑫2022提前批- 一曲挽歌](https://www.cnblogs.com/yiquwange/p/14991462.html)
 
 ## 其他
 
