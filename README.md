@@ -52,7 +52,7 @@
 
 ### 乐鑫
 #### <a name="乐鑫-2022">2022</a>
-&nbsp;&nbsp;&nbsp;&nbsp; [2022乐鑫数字芯片提前批笔试（含答案](https://zhuanlan.zhihu.com/p/457630680)
+&nbsp;&nbsp;&nbsp;&nbsp; [2022乐鑫数字芯片提前批笔试（含答案）](https://zhuanlan.zhihu.com/p/457630680)
 
 ## 其他
 
