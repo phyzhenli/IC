@@ -6,6 +6,7 @@
 - [基础知识](#基础知识)
   - [跨时钟域(Clock Domain Crossing, CDC)](#CDC)
   - [仲裁器](#仲裁器)
+  - [单比特去毛刺](#单比特去毛刺)
  
   
 - [笔试真题](#笔试真题)
@@ -34,6 +35,13 @@
 ### 仲裁器
 
 &nbsp;&nbsp;&nbsp;&nbsp; [verilog仲裁器设计](https://blog.csdn.net/spx1164376416/article/details/124377534)
+
+### 单比特去毛刺
+
+&nbsp;&nbsp;&nbsp;&nbsp; [单bit信号进行毛刺滤除（Verilog）](https://blog.csdn.net/weixin_44586889/article/details/119207977)
+
+&nbsp;&nbsp;&nbsp;&nbsp; [毛刺滤波器（法1）](https://zhuanlan.zhihu.com/p/549391405)
+
 
 ## 笔试真题
 
